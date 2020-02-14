@@ -41,5 +41,6 @@
 		<module>helloweb</module>
 		<module>bookmall</module>
 		<module>bookshop</module>
+		<module>guestbook02</module>
 	</modules>
 </project>
